@@ -5,3 +5,66 @@
 body {
     background-color: bisque;
 }
+
+div {
+    border-radius: 10px;
+    margin-bottom: 0;
+}
+
+.header, .footer {
+    height: 50px;
+}
+
+.header {
+    background-color: deepskyblue;
+}
+
+.footer {
+    background-color: pink;
+    clear: both;
+}
+
+.left1 {
+    height: 300px;
+    width: 150px;
+    background-color: darkseagreen;
+    float: left;
+    margin-right: 20px;
+
+}
+
+.right1 {
+    height: 300px;
+    width: 650px;
+    background-color: orange;
+    float: right;
+    margin-left: 20px;
+}
+
+.left2 {
+    height: 100px;
+    width: 160px;
+    background-color: purple;
+    float: left;
+    margin-right: 20px ;
+}
+
+.right2 {
+    height: 100px;
+    width: 340px;
+    background-color: violet;
+    float: right;
+    margin-left: 20px;
+}
+
+.right3 {
+    height: 300px;
+    width: 740px;
+    background-color: aqua;
+    float: right;
+    margin-left: 20px;
+}
+
+h2  {
+    padding: 50px;
+}
